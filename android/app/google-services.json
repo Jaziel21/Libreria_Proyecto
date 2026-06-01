@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527595526059",
+    "project_id": "libroappdb",
+    "storage_bucket": "libroappdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527595526059:android:e30c32071813af9eaaa4ee",
+        "android_client_info": {
+          "package_name": "com.example.libreriaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDkxnHKsYrrGczZ0qg_bQ0sLWxiqCRpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
